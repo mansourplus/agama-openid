@@ -56,7 +56,8 @@
                     }
                 }
             }
-        }
+        },
+        "co.acme.auth": {}
     },
     "name": "agama-openid"
 }
